@@ -1,9 +1,9 @@
-Aceasta aplicatie web este un blog cu recomandari pentru divertisment, dezvoltat cu limabjul de programare Python si framework-ul Flask. \
+Aceasta aplicatie web este un blog cu recomandari pentru divertisment, dezvoltat cu limabjul de programare Python si framework-ul Flask. 
 1. Descriere \
     Un blog simplu prin care utilizatorii pot viziona, crea, sterge sau modifica bloguri pe diferite teme. \
     Pentru a avea acces la toate facilitatile aplicatiei, trebuie sa se treaca printr-o inregistrare si logare. \
     O postare specifica poate fi cautata de pe butonul "search" si completand campul cu titlul acesteia. \
-2. Screenshot \
+2. Screenshot 
 3. Tehnologii si Tool-uri \
     Limbaj de programare : Python \
     Framework : Flask \
